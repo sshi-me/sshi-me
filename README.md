@@ -1,6 +1,6 @@
 ## *Hello!!* I'm **Daniel**, `16 y.o.`, Infrastructure Engineer
 ### a little bit about me (￣ω￣)
-I from `🇷🇺 Russia`\
+I from `🇷🇺 Russia, Volgograd`\
 Learning ***hosting infrastructure*** & ***network engineering*** \
 My web-site [(˶>⩊<˶)](https://sshi.pw/)
 
